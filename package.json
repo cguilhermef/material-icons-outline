@@ -1,0 +1,19 @@
+{
+  "name": "material-icons-outline",
+  "version": "1.0.2",
+  "description": "This project provide the material icons outline version, made using Icomoon. Works pretty like Material Icons normal.",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cguilhermef/material-icons-outline.git"
+  },
+  "author": "{ \"name\": \"Christian G. Fritsch\", \"email\": \"frontend.guilherme@gmail.com\"}",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cguilhermef/material-icons-outline/issues"
+  },
+  "homepage": "https://github.com/cguilhermef/material-icons-outline#readme"
+}
